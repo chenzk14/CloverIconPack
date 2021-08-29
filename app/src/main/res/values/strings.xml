@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Canstor14图标包</string>
+
+    <string name="maker_name">Canstor14</string>
+    <string name="maker_sign">你好😉！我是本图标包图标的设计者，希望有更多人喜欢这个作品！</string>
+    <string-array name="maker_motto">
+    </string-array>
+    <string name="maker_email">1140037470@qq.com</string>
+
+</resources>
