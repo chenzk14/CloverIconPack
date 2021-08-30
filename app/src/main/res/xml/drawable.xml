@@ -2,6 +2,7 @@
 <resources>
     <version>1</version>
 
+    <!--    <category title="谷歌"/>-->
     <!--title="分类,这里以首字母为例"-->
     <!--<item drawable="图标文件名字(只能含有小写字母，下划线，数字，必须以字母开头)，不含后缀名" />-->
 
@@ -16,7 +17,6 @@
     <item drawable="ic_download" name="下载" />
     <item drawable="ic_settings" name="设置" />
 
-<!--    <category title="谷歌"/>-->
     <item drawable="ic_chrome" name="Chrome" />
     <item drawable="ic_play_music" name="Play 音乐" />
     <item drawable="ic_play_games" name="Play 游戏" />
