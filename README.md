@@ -288,6 +288,6 @@ versionName "" 命名随意，一般都是1.0，1.1之类的。
 
 ### 😜 软件截图
 
-<img src="https://github.com/chenzk14/CloverIconPack/tree/master/screenshot/Screenshot_2.png?raw=true"/>
+<img src="https://github.com/chenzk14/CloverIconPack/blob/master/screenshot/Screenshot_1.jpg"/>
 
-<img src="https://github.com/chenzk14/CloverIconPack/tree/master/screenshot/Screenshot_1.png?raw=true"/>
+<img src="https://github.com/chenzk14/CloverIconPack/blob/master/screenshot/Screenshot_2.jpg"/>
