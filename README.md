@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-=======
-### 注意：
-### 此项目仅仅只用来学习和交流，仅适配 oneplus 5T
-### 所有图标都由`Canstor14`二次设计
-
->>>>>>> d9ddadb (update commit)
 ### ☘ 三叶草图标包模板
 
 [app下载](https://www.coolapk.com/apk/278358)
